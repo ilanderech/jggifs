@@ -81,4 +81,24 @@
         ],
         "title": "cutecat2.gif"
     }
+        {
+        "category": "mine",
+        "path": "OLO/source.gif",
+        "tags": [
+            "mine",
+            "ilan",
+            "random"
+        ],
+        "title": "source.gif"
+    }
+            {
+        "category": "mine2",
+        "path": "OLO/bboy-bear.gif",
+        "tags": [
+            "mine",
+            "ilan",
+            "random"
+        ],
+        "title": "bboy-bear.gif"
+    }
 ]
