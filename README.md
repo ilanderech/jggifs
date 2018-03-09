@@ -4,7 +4,7 @@ Storage place for all my favorite gifs.
 
 ![thumbs up](bien/sk8r-girl.gif)
 
-## Contributing
+## HOLA
 
 Feel free to open a pull request if you have a gif that you really think belongs in here. However, I will only accept images that I think I will personally want to use.
 
